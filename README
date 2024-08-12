@@ -1,0 +1,8 @@
+One time per repo [DONE]
+- poetry init
+- poetry add pytest
+
+
+To run pytest:
+- poetry run pytest
+
